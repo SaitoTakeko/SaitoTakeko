@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaitoTakeko
+- 👋 Hi, I’m @SaitoTakeko or Michelle Fortier
 - 👀 I’m interested in learning Python and CI/CD
 - 🌱 I’m currently learning Python, PyCharm and Industry 4.0: Unified names spaces message brokers and message queueing.
 - 💞️ I’m looking to collaborate on ... not sure right now
